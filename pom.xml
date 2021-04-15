@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>isr</groupId>
-    <artifactId>eumkd</artifactId>
+    <artifactId>eumkd-server</artifactId>
     <version>1.0</version>
-    <name>eumkd</name>
+    <name>eumkd-server</name>
     <description>EUMKD server</description>
     <properties>
         <java.version>1.8</java.version>
