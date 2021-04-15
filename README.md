@@ -9,3 +9,5 @@ https://downloads.apache.org/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin
 # Run
 `{profect-root}/target`  
 `java -jar eumkd-1.0.jar isr.eumkd.EumkdApplication`
+# Request to
+http://localhost:8080/test/{id}
